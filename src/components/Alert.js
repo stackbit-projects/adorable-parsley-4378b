@@ -1,5 +1,6 @@
 const Alert = ({ body }) => {
-    return <p>{body}</p>
+    return <div>
+        </div><p>{body}</p>
 }
 
 export default Alert
