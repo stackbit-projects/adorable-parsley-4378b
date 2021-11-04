@@ -1,4 +1,4 @@
-const Alert = ({ body }) => {
+const Alert = ({ annotationPrefix, body }) => {
     return <div data-sb-field-path={annotationPrefix}>
         <p>{body}</p>
         </div>
