@@ -3,7 +3,7 @@ title: Home
 layout: PageLayout
 sections:
   - type: Alert
-    body: I am an alert. Hear me roar! It's working!
+    body: It's working!
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-f
