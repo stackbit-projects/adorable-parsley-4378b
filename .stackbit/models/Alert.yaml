@@ -1,7 +1,0 @@
-name: Alert
-label: Alert
-groups:
-  - sectionComponent
-fields:
-  - type: text
-    name: body
