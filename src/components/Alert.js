@@ -1,9 +1,5 @@
-const Alert = ({ annotationPrefix, body }) => {
-    return (
-        <div data-sb-field-path={annotationPrefix}>
-            <p data-sb-field-path=".body">{body}</p>
-        </div>
-    )
+const Alert = ({ body }) => {
+    return <p>{body}</p>
 }
 
 export default Alert
