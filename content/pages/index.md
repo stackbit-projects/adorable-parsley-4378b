@@ -2,8 +2,6 @@
 title: Home
 layout: PageLayout
 sections:
-  - type: Alert
-    body: It's working!
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-f
